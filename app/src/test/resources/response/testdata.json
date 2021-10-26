@@ -1,0 +1,1013 @@
+{
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "Plot": "Richard is a computer programmer. He has to choose between a $10 million deal with Gavin Belson and a $200,000 deal with Peter Gregory, in exchange for his cooperation to make the idea of a super compressing algorithm change the world.",
+          "Rated": "N/A",
+          "Title": "Minimum Viable Product",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.8/10"
+            }
+          ],
+          "Writer": "Mike Judge, John Altschuler, Dave Krinsky, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1922",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Mike Judge",
+          "Released": "06 Apr 2014",
+          "Awards": "N/A",
+          "Genre": "N/A",
+          "imdbRating": "7.8",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYWIyODUxOTItOTYwNS00Mjc4LWI4ZjUtNWQ2YWVmNWQ1MmViXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "1",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "30 min",
+          "imdbID": "tt3222784",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        },
+        {
+          "Plot": "Richard hires Jared to design a business plan. Big Head is asked to work for Gavin Belson, where he discovers that Hooli has stolen the Pied Piper algorithm and calls it Nucleus. Meanwhile Richard struggles to get his money from Gregory.",
+          "Rated": "N/A",
+          "Title": "The Cap Table",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.9/10"
+            }
+          ],
+          "Writer": "Carson Mell, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Matteo Borghese (staff writer), Rob Turbovsky (staff writer), Jessica Gao (staff writer), Carson Mell (story editor)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1532",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Mike Judge",
+          "Released": "13 Apr 2014",
+          "Awards": "N/A",
+          "Genre": "N/A",
+          "imdbRating": "7.9",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTFkMjI4OGItYmY3ZC00NGU4LTgwMzUtNWNjNTBlNWE4ZTJmXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "2",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "29 min",
+          "imdbID": "tt3668816",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        },
+        {
+          "Plot": "The guys find themselves in trouble with their company name when they find out it's already taken. So whilst Richard tries to find a solution, Erlich searches for a new name in another dimension of his consciousness.",
+          "Rated": "TV-MA",
+          "Title": "Articles of Incorporation",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.2/10"
+            }
+          ],
+          "Writer": "Matteo Borghese, Rob Turbovsky, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (story editor)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1361",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Tricia Brock",
+          "Released": "20 Apr 2014",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.2",
+          "Poster": "https://ia.media-imdb.com/images/M/MV5BNzAzM2M3ZGYtYmFlNC00NzY5LTg2MGYtMTlhMmNiN2YzZTA4XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "3",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt3380250",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        },
+        {
+          "Plot": "Richard drunkenly promises to make Erlich a board member, which he regrets the next morning. Big Head finds others at Hooli, who like him, have made careers out of doing nothing. Richard struggles to put Pied Piper's vision into words.",
+          "Rated": "TV-MA",
+          "Title": "Fiduciary Duties",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.8/10"
+            }
+          ],
+          "Writer": "Ron Weiner, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1189",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Maggie Carey",
+          "Released": "27 Apr 2014",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "7.8",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQ5YzBjNzQtMDlkMy00MjI2LTgzNmEtMWQ5ZmZjNzk4NzcxXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "4",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt3668330",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        },
+        {
+          "Plot": "Now that Pied Piper is the official company name, Erlich wants a logotype to go with it so he hires a very unexpected artist in for the job. Meanwhile Richard gets a tighter deadline for the project after a simple mistake.",
+          "Rated": "TV-MA",
+          "Title": "Signaling Risk",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.4/10"
+            }
+          ],
+          "Writer": "Jessica Gao, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1235",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Alec Berg",
+          "Released": "04 May 2014",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.4",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzliNjA5NzktYmZmNS00ZjcyLTk1NzEtOGU3MjNjYWRlNjliXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "5",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "29 min",
+          "imdbID": "tt3467892",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        },
+        {
+          "Plot": "Richard comes across a problem in the code writing and hires Kevin, a young kid, to write the code for him.",
+          "Rated": "TV-MA",
+          "Title": "Third Party Insourcing",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.5/10"
+            }
+          ],
+          "Writer": "Dan O'Keefe, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1244",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Alec Berg",
+          "Released": "11 May 2014",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.5",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWQ5Y2I5NjMtMWM5Mi00MTU2LTkzODYtNzYxYjkxOWFmNWM2XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "6",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt3557356",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        },
+        {
+          "Plot": "Richard has trouble getting Pied Piper ready in time for the TechCrunch Disrupt, while Erlich realizes he slept with the wife of one of the judges of the contest.",
+          "Rated": "N/A",
+          "Title": "Proof of Concept",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.6/10"
+            }
+          ],
+          "Writer": "Clay Tarver, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1405",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Mike Judge",
+          "Released": "18 May 2014",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.6",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYjgxNzViZTAtYTVlMS00MzU3LWIzZWEtZGZkNDRjNjQwYzA3XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "7",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt3388032",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        },
+        {
+          "Plot": "Pied Piper makes it to the next stage of Disrupt but runs into trouble with Hooli's presentation. The guys break out into a ridiculous argument and Richard tries to pull Pied Piper together before the big presentation.",
+          "Rated": "TV-MA",
+          "Title": "Optimal Tip-To-Tip Efficiency",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "9.4/10"
+            }
+          ],
+          "Writer": "Alec Berg, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "2342",
+          "seriesID": "tt2575988",
+          "Season": "1",
+          "Director": "Mike Judge",
+          "Released": "01 Jun 2014",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "9.4",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkxNDdhMGUtMGExYy00YzcxLTllYmEtMjhmZjU2YjExYWNiXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "Episode": "8",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "29 min",
+          "imdbID": "tt3557358",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2014"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "Plot": "Monica deals with her new boss; Richard makes a decision about the company's future.",
+          "Rated": "TV-MA",
+          "Title": "Sand Hill Shuffle",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.4/10"
+            }
+          ],
+          "Writer": "Clay Tarver, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1316",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Mike Judge",
+          "Released": "12 Apr 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.4",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1NDQ0MTQ2Nl5BMl5BanBnXkFtZTgwMDQ4MTUxNTE@._V1_SX300.jpg",
+          "Episode": "1",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "29 min",
+          "imdbID": "tt3682540",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        },
+        {
+          "Plot": "Richard and the guys struggle to find a backer as they face legal and financial woes. Meanwhile, an old enemy pays Richard a visit.",
+          "Rated": "TV-MA",
+          "Title": "Runaway Devaluation",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            }
+          ],
+          "Writer": "Ron Weiner, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1103",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Mike Judge",
+          "Released": "19 Apr 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.1",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTU3MzI0M15BMl5BanBnXkFtZTgwODM4MTUxNTE@._V1_SX300.jpg",
+          "Episode": "2",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "26 min",
+          "imdbID": "tt3682600",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        },
+        {
+          "Plot": "While considering Gavin's proposal, Richard is approached by a billionaire.",
+          "Rated": "TV-MA",
+          "Title": "Bad Money",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.2/10"
+            }
+          ],
+          "Writer": "Alec Berg, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "998",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Alec Berg",
+          "Released": "26 Apr 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.2",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NzgxMDAyOF5BMl5BanBnXkFtZTgwMDM3OTk0NjE@._V1_SX300.jpg",
+          "Episode": "3",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "27 min",
+          "imdbID": "tt3682606",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        },
+        {
+          "Plot": "Richard butts heads with Erlich over a prospective hire; Dinesh and Gilfoyle grow suspicious.",
+          "Rated": "TV-MA",
+          "Title": "The Lady",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.0/10"
+            }
+          ],
+          "Writer": "Carson Mell, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "972",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Alec Berg",
+          "Released": "03 May 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.0",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzg0NTE0NTMyMF5BMl5BanBnXkFtZTgwNDM4MTUxNTE@._V1_SX300.jpg",
+          "Episode": "4",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt3682586",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        },
+        {
+          "Plot": "Gavin's interference causes Pied Piper to struggle with securing their expansion.",
+          "Rated": "TV-MA",
+          "Title": "Server Space",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.2/10"
+            }
+          ],
+          "Writer": "Sonny Lee, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1044",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Mike Judge",
+          "Released": "10 May 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.2",
+          "Poster": "https://ia.media-imdb.com/images/M/MV5BMTgyNzMyNDk0NV5BMl5BanBnXkFtZTgwNDI3OTk0NjE@._V1_SX300.jpg",
+          "Episode": "5",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt3682590",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        },
+        {
+          "Plot": "Monica encourages the guys to pounce on an opportunity; Erlich reconnects with a former mentee.",
+          "Rated": "TV-MA",
+          "Title": "Homicide",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.9/10"
+            }
+          ],
+          "Writer": "Carrie Kemper, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1172",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Mike Judge",
+          "Released": "17 May 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.9",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM0NzgxMzA0Ml5BMl5BanBnXkFtZTgwODI3OTk0NjE@._V1_SX300.jpg",
+          "Episode": "6",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt3682592",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        },
+        {
+          "Plot": "With the Pied Piper team fielding job offers, Richard faces the prospect of folding.",
+          "Rated": "TV-MA",
+          "Title": "Adult Content",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.6/10"
+            }
+          ],
+          "Writer": "Amy Aniobi, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "964",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Alec Berg",
+          "Released": "24 May 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.6",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1NTI1ODk1MV5BMl5BanBnXkFtZTgwNjI3OTk0NjE@._V1_SX300.jpg",
+          "Episode": "7",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt3682588",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        },
+        {
+          "Plot": "Richard accidentally sparks a feud that leads him to become paranoid about security.",
+          "Rated": "N/A",
+          "Title": "White Hat/Black Hat",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.4/10"
+            }
+          ],
+          "Writer": "Dan Lyons, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Carson Mell (executive story editor), Amy Aniobi (story editor), Dan Lyons (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1123",
+          "seriesID": "tt2575988",
+          "Season": "2",
+          "Director": "Alec Berg",
+          "Released": "31 May 2015",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.4",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4MDMwNDMyNF5BMl5BanBnXkFtZTgwNTI3OTk0NjE@._V1_SX300.jpg",
+          "Episode": "8",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt3682604",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2015"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "Plot": "After being unceremoniously fired, an angry Richard faces a tough decision: accept the diminished role of CTO, or leave Pied Piper for good. Erlich takes a shine to Jack Barker, Laurie's ...",
+          "Rated": "TV-MA",
+          "Title": "Founder Friendly",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.3/10"
+            }
+          ],
+          "Writer": "Dan O'Keefe, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1024",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Mike Judge",
+          "Released": "24 Apr 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.3",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjgwNDM2MTMxNF5BMl5BanBnXkFtZTgwOTk2NTk2ODE@._V1_SX300.jpg",
+          "Episode": "1",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "29 min",
+          "imdbID": "tt4633480",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        },
+        {
+          "Plot": "The new and improved Pied Piper impresses Dinesh and Gilfoyle, but worries Richard; Jared and Erlich face housing issues; Gavin suggests a controversial move.",
+          "Rated": "TV-MA",
+          "Title": "Two in the Box",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.2/10"
+            }
+          ],
+          "Writer": "Ron Weiner, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "865",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Mike Judge",
+          "Released": "01 May 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.2",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NTI1MDM4MF5BMl5BanBnXkFtZTgwMTE3NTk2ODE@._V1_SX300.jpg",
+          "Episode": "2",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt5218398",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        },
+        {
+          "Plot": "Richard searches for a way around Jack; Gilfoyle opens himself up to recruiters; Dinesh draws unwanted attention from a recent purchase.",
+          "Rated": "TV-MA",
+          "Title": "Meinertzhagen's Haversack",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.7/10"
+            }
+          ],
+          "Writer": "Adam Countee, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "981",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Charlie McDowell",
+          "Released": "08 May 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.7",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3MTQzMDI3MV5BMl5BanBnXkFtZTgwMDE3NTk2ODE@._V1_SX300.jpg",
+          "Episode": "3",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt5218400",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        },
+        {
+          "Plot": "The Pied Piper guys struggle to phone it in; Erlich faces competition; Monica takes a stand; Gavin makes a decision about Nucleus.",
+          "Rated": "TV-MA",
+          "Title": "Maleant Data Systems Solutions",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.7/10"
+            }
+          ],
+          "Writer": "Donick Cary, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "982",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Charlie McDowell",
+          "Released": "15 May 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.7",
+          "Poster": "https://ia.media-imdb.com/images/M/MV5BNDI4OTUzOTY4NV5BMl5BanBnXkFtZTgwNjA3NTk2ODE@._V1_SX300.jpg",
+          "Episode": "4",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt5218414",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        },
+        {
+          "Plot": "Richard lets his ego get in the way at an interview; Dinesh, Gilfoyle and Jared misplace hardware; Erlich pitches his plans to Big Head.",
+          "Rated": "TV-MA",
+          "Title": "The Empty Chair",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            }
+          ],
+          "Writer": "Megan Amram, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "795",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Eric Appel",
+          "Released": "22 May 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.1",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNzE2MTYwNV5BMl5BanBnXkFtZTgwNzk2NTk2ODE@._V1_SX300.jpg",
+          "Episode": "5",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt5218422",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        },
+        {
+          "Plot": "Richard's new relationship is threatened by neuroses; Big Head and Erlich's launch party has snags; Dinesh falls for a foreign coworker.",
+          "Rated": "TV-MA",
+          "Title": "Bachmanity Insanity",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.2/10"
+            }
+          ],
+          "Writer": "Carson Mell, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "835",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Eric Appel",
+          "Released": "29 May 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.2",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWQxOWRiN2QtODFlNi00ODY0LTgxNWQtNmRhODQ5YTNkZWE1XkEyXkFqcGdeQXVyNTM2OTE3NzM@._V1_SX300.jpg",
+          "Episode": "6",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt5218484",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        },
+        {
+          "Plot": "Richard decides to test the Pied Pipper beta. Erlich finds himself in trouble.",
+          "Rated": "TV-MA",
+          "Title": "To Build a Better Beta",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.4/10"
+            }
+          ],
+          "Writer": "John Levenstein, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "787",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Jamie Babbit",
+          "Released": "05 Jun 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.4",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDdiNDQxZDctOTlmMC00MGZiLWE5MjQtM2E2ZjA1ZWRlYWFlXkEyXkFqcGdeQXVyMTYyNDY4OTI@._V1_SX300.jpg",
+          "Episode": "7",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt5218490",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        },
+        {
+          "Plot": "Erlich tries to be honest with Richard, who has mixed emotions about their friendship and the future of Pied Piper. Meanwhile, Jared's new company apparel turns heads but fuels yet another clash between Dinesh and Gilfoyle.",
+          "Rated": "TV-MA",
+          "Title": "Bachman's Earning's Over-Ride",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.6/10"
+            }
+          ],
+          "Writer": "Carrie Kemper, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "771",
+          "seriesID": "tt2575988",
+          "Season": "3",
+          "Director": "Jamie Babbit",
+          "Released": "12 Jun 2016",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.6",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzRmYTQzOTAtN2MwYy00YTFlLTlkNzEtNjAxY2Y4ODE2Yjc5XkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_SX300.jpg",
+          "Episode": "8",
+          "Language": "English",
+          "Country": "USA",
+          "Runtime": "28 min",
+          "imdbID": "tt5218496",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2016"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "Plot": "The guys struggle to find funding for Pied Piper's video chat app to keep up with their rapidly growing user base. Erlich faces resistance from Big Head's father. Jack steps on Gavin's toes at Hooli. Richard gets sage advice.",
+          "Rated": "N/A",
+          "Title": "Success Failure",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.2/10"
+            }
+          ],
+          "Writer": "Alec Berg, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "1064",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Mike Judge",
+          "Released": "23 Apr 2017",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.2",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BZWUzNjEyMGItOTQyMi00NGI3LWI4MGMtMmQzZGVhM2I0OTg4XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SX300.jpg",
+          "Episode": "1",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "29 min",
+          "imdbID": "tt5654084",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        },
+        {
+          "Plot": "Richard butts heads with Dinesh, whose new position goes to his head. Later, Richard discovers interesting data about PiperChat's users. Erlich makes a play to be involved in Jian-Yang's ...",
+          "Rated": "TV-MA",
+          "Title": "Terms of Service",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.6/10"
+            }
+          ],
+          "Writer": "Clay Tarver, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "983",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Mike Judge",
+          "Released": "30 Apr 2017",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.6",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyN2YyYzMtNWQzMC00NmFlLWFkMmQtYTZmMjZkZGU1OGFhXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SX300.jpg",
+          "Episode": "2",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "29 min",
+          "imdbID": "tt6245460",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        },
+        {
+          "Plot": "Dinesh gets back to the ground while Richard continues to explore his new project. Gavin tries to come out of the new problem he has gotten himself into and interestingly the chemistry between Richard and Monica takes a new turn.",
+          "Rated": "TV-MA",
+          "Title": "Intellectual Property",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.6/10"
+            }
+          ],
+          "Writer": "Carrie Kemper, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "918",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Jamie Babbit",
+          "Released": "07 May 2017",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.6",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BODIxZGE0ODUtNzAxZS00MzJhLWEwZmEtODMzZDgxYzM0ZTQxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SX300.jpg",
+          "Episode": "3",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "29 min",
+          "imdbID": "tt6245462",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        },
+        {
+          "Plot": "Sea food demo is being prepared. Big head professorship is proving beneficial to his students. And finally we get a glimpse of the insides of Gavin Belson mansion.",
+          "Rated": "TV-MA",
+          "Title": "Teambuilding Exercise",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.2/10"
+            }
+          ],
+          "Writer": "Meghan Pleticha, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "822",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Jamie Babbit",
+          "Released": "14 May 2017",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.2",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNmFhMGNkOGUtZDBmYi00ZjQ0LTkwY2ItOWJkNzA2ODFkYjI3XkEyXkFqcGdeQXVyMDgyMTEzMg@@._V1_SX300.jpg",
+          "Episode": "4",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "29 min",
+          "imdbID": "tt6267504",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        },
+        {
+          "Plot": "Richard tries to convince his new business partner Gavin about his strategy for the new internet, but finds himself blocked by meddling from an annoying associate of Gavin's. Erlich ...",
+          "Rated": "TV-MA",
+          "Title": "The Blood Boy",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            }
+          ],
+          "Writer": "Adam Countee, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "821",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Tim Roche",
+          "Released": "21 May 2017",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.1",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BODMxYmNkMTctMDIyOC00YzQzLTgwOWItZGNlMmM1NzI1ZmQ3XkEyXkFqcGdeQXVyNDYwMzY3NjA@._V1_SX300.jpg",
+          "Episode": "5",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt6267506",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        },
+        {
+          "Plot": "The guys struggle for funding to launch the latest iteration of Pied Piper. Erlich seeks to join the new VC firm formed by Laurie and Monica. Dinesh and Gilfoyle clash over the alpha build.",
+          "Rated": "N/A",
+          "Title": "Customer Service",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.0/10"
+            }
+          ],
+          "Writer": "Graham Wagner, Shawn Boxe, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "826",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Clay Tarver",
+          "Released": "28 May 2017",
+          "Awards": "N/A",
+          "Genre": "N/A",
+          "imdbRating": "8.0",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BZTE5MzdlNzItNWQ2MC00NjU5LWJiYjQtYjNjYzMyN2ZlNTkyXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SX300.jpg",
+          "Episode": "6",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "29 min",
+          "imdbID": "tt6267508",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        },
+        {
+          "Plot": "When Richard decides to stand up to a patent troll, his defiance ends up coming back to haunt him. Gilfoyle goes to desperate measures to battle Jian-Yang's new smart refrigerator. Jared ...",
+          "Rated": "TV-MA",
+          "Title": "The Patent Troll",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.0/10"
+            }
+          ],
+          "Writer": "Andrew Law, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "756",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Jamie Babbit",
+          "Released": "04 Jun 2017",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.0",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BOTU5NDIwNDktOTBjMy00OWYxLTgyMTYtMTIxMDgzOTUyNGUxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SX300.jpg",
+          "Episode": "7",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt5915160",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        },
+        {
+          "Plot": "An unexpected increase in data traffic leads Richard to turn to Ehrlich for help in garnering a deal with Keenan Feldspar, Silicon Valley's latest 'it' boy, but when he makes a ...",
+          "Rated": "TV-MA",
+          "Title": "The Keenan Vortex",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            }
+          ],
+          "Writer": "Graham Wagner, Rachele Lynn, Mike Judge (created by), John Altschuler (created by), Dave Krinsky (created by), Andrew Law (story editor), Rachele Lynn (story editor), Shawn Boxe (staff writer)",
+          "Actors": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr",
+          "Type": "episode",
+          "imdbVotes": "659",
+          "seriesID": "tt2575988",
+          "Season": "4",
+          "Director": "Jamie Babbit",
+          "Released": "11 Jun 2017",
+          "Awards": "N/A",
+          "Genre": "Comedy",
+          "imdbRating": "8.1",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTNjZGQ1ZTctMDQwYS00MTVmLWE3OWUtNzM0YTFlNDcyNDYwXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SX300.jpg",
+          "Episode": "8",
+          "Language": "N/A",
+          "Country": "N/A",
+          "Runtime": "28 min",
+          "imdbID": "tt6267510",
+          "Metascore": "N/A",
+          "Response": "True",
+          "Year": "2017"
+        }
+      ]
+    }
+  ],
+  "title": "Silicon Valley"
+}
